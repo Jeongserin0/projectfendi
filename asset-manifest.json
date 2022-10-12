@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/projectfendi/static/css/main.a12bf1ae.css",
+    "main.js": "/projectfendi/static/js/main.17628c04.js",
+    "static/js/787.1439b15e.chunk.js": "/projectfendi/static/js/787.1439b15e.chunk.js",
+    "static/media/main2.jpg": "/projectfendi/static/media/main2.f8151e549954a2ce498a.jpg",
+    "static/media/fendace2.jpg": "/projectfendi/static/media/fendace2.7145cbadd3ac96a1015d.jpg",
+    "static/media/fendace1.jpg": "/projectfendi/static/media/fendace1.e7f6bdd803aaacbc7eb7.jpg",
+    "static/media/newsp1.jpg": "/projectfendi/static/media/newsp1.707fd12c843678081724.jpg",
+    "static/media/pdphoto2.jpg": "/projectfendi/static/media/pdphoto2.4296206db7e50eddd037.jpg",
+    "static/media/pdphoto1.jpg": "/projectfendi/static/media/pdphoto1.9b71abbeb06cb7ac182d.jpg",
+    "static/media/newsp3.jpg": "/projectfendi/static/media/newsp3.8ab824e37474211688d6.jpg",
+    "static/media/listPhoto1.jpg": "/projectfendi/static/media/listPhoto1.2dd831ca3ad2518b9d0b.jpg",
+    "static/media/listPhoto2.jpg": "/projectfendi/static/media/listPhoto2.1e006b78bc7ce24140fc.jpg",
+    "static/media/newsm3.jpg": "/projectfendi/static/media/newsm3.276085aade66053e366f.jpg",
+    "static/media/women.jpg": "/projectfendi/static/media/women.912b1d98fa0fae10df29.jpg",
+    "static/media/listPhoto3.jpg": "/projectfendi/static/media/listPhoto3.28af7cae45dbb0c2041e.jpg",
+    "static/media/gift.jpg": "/projectfendi/static/media/gift.fabb9a500e8009dd5fb4.jpg",
+    "static/media/news3.jpg": "/projectfendi/static/media/news3.f79f50a222a8a9819282.jpg",
+    "static/media/news1.jpg": "/projectfendi/static/media/news1.0868ffeeb606fad66d1d.jpg",
+    "static/media/newsp2.jpg": "/projectfendi/static/media/newsp2.72c85474d59ab224a14f.jpg",
+    "static/media/newsm2.jpg": "/projectfendi/static/media/newsm2.258cb89d1e9285fe291e.jpg",
+    "static/media/newsm1.jpg": "/projectfendi/static/media/newsm1.3aed9fe9ecda0581ca28.jpg",
+    "static/media/news2.jpg": "/projectfendi/static/media/news2.2d2733e50cbbec80bfe4.jpg",
+    "static/media/newsp4.jpg": "/projectfendi/static/media/newsp4.5a9b1ed0f40f6b181113.jpg",
+    "static/media/man.jpg": "/projectfendi/static/media/man.6288c6446493474bf748.jpg",
+    "static/media/slick.svg": "/projectfendi/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/projectfendi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/projectfendi/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/projectfendi/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/projectfendi/index.html",
+    "main.a12bf1ae.css.map": "/projectfendi/static/css/main.a12bf1ae.css.map",
+    "main.17628c04.js.map": "/projectfendi/static/js/main.17628c04.js.map",
+    "787.1439b15e.chunk.js.map": "/projectfendi/static/js/787.1439b15e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12bf1ae.css",
+    "static/js/main.17628c04.js"
+  ]
+}
