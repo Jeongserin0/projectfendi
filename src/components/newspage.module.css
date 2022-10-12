@@ -1,0 +1,135 @@
+.NewsMain {width: 100%; height: 1000px;
+           /* background-color: beige; */
+           margin-top: 180px;}
+.NewsTxt {width: 1000px; height: 200px;
+          margin: 0 auto;
+          margin-top: 120px;
+          text-align: center;
+          /* background-color: lightblue; */}
+.NewsLine {width: 50px; border-top: 2px solid #333;
+           margin: 0 auto;}
+.NewsTxt p {font-size: 1.2rem; line-height: 34px;}
+
+/* 뉴스 포토박스 */
+.NewsPhoto {width: 1400px; height: 800px;
+            margin: 0 auto;
+            margin-top: 50px;
+            display: flex; justify-content: space-between;
+            /* background-color: aquamarine; */}
+.NewsPT1 {width: 50%; height: 800px;
+          /* background-color: antiquewhite; */}
+.Photo1 {width: 100%; height: 400px;
+         /* background-color: lightblue; */
+         display: flex;}
+.season1 {width: 50%; height: 400px;
+          background: url(./images/newsp3.jpg);
+          background-size: cover;
+          background-repeat: no-repeat;
+          /* background-color: rgb(156, 156, 63); */
+          position: relative;}
+.season1:hover .Opacity {background-color: rgba(0, 0, 0, 0.5);
+                         cursor: pointer;}
+.season1:hover h4 {display: block;}
+.Opacity {width: 100%; height: 400px;
+          background-color: rgba(0, 0, 0, 0);
+          position:absolute}
+.season1 h4 {color: #fff;
+             position: absolute;
+             top: 50%; left: 50%;
+             transform: translate(-50%, -50%);
+             display: none;
+             font-size: 1.2rem;}
+
+.season2 {width: 50%; height: 400px;
+          background: url(./images/newsp4.jpg);
+          background-size: cover;
+          background-repeat: no-repeat;
+          /* background-color: brown; */
+          position: relative;}
+.season2:hover .Opacity2 {background-color: rgba(0, 0, 0, 0.5);
+                         cursor: pointer;}
+.Opacity2 {width: 100%; height: 400px;
+           background-color: rgba(0, 0, 0, 0);
+           position:absolute}
+.season2:hover h4 {display: block;}
+.season2 h4 {color: #fff;
+             position: absolute;
+             top: 50%; left: 50%;
+             transform: translate(-50%, -50%);
+             display: none;
+             font-size: 1.2rem;}
+
+.Photo2 {width: 100%; height: 400px;
+          background: url(./images/newsp2.jpg);
+          background-size: cover;
+          background-repeat: no-repeat;
+          /* background-color: lightslategray; */
+          position: relative;}
+.Opacity3 {width: 100%; height: 400px;
+           background-color: rgba(0, 0, 0, 0);
+           position:absolute}
+.Photo2:hover .Opacity3 {background-color: rgba(0, 0, 0, 0.5);
+                         cursor: pointer;}
+.Photo2:hover h3 {display: block;}
+.Photo2 h3 {color: #fff;
+             position: absolute;
+             top: 50%; left: 25%;
+             transform: translate(-75%, -50%);
+             font-size: 1.4rem;
+             display: none;}
+
+.NewsPT2 {width: 50%; height: 800px;
+          background: url(./images/newsp1.jpg);
+          background-size: cover;
+          background-repeat: no-repeat;
+          /* background-color: cadetblue; */
+          position: relative;}
+.Opacity4 {width: 100%; height: 800px;
+           background-color: rgba(0, 0, 0, 0);
+           position:absolute}
+.NewsPT2:hover .Opacity4 {background-color: rgba(0, 0, 0, 0.5);
+                         cursor: pointer;}
+.NewsPT2:hover h2 {display: block;}
+.NewsPT2 h2 {color: #ecbc00;
+             position: absolute;
+             top: 50%; left: 50%;
+             transform: translate(-50%, -50%);
+             font-size: 2rem;
+             display: none;}
+
+/* 패션쇼 */
+.Newscoll {width: 100%; height: 900px;
+           /* background-color: rgb(255, 182, 169); */
+           margin-top: 120px;}
+.colltxt {width: 1400px; height: 250px;
+          margin: 0 auto;
+          /* background-color: beige; */ }
+.colltxt h2 {padding-top: 40px;}
+.colltxt p {line-height: 28px;}
+.collphoto {width: 1400px; height: 610px;
+            margin: 0 auto;
+            display: flex; justify-content: space-between;
+            /* background-color: aquamarine; */
+            overflow: hidden;}
+.collphoto img:hover {transform: scale(1.1);
+                      transition: all 0.4s ease-in-out;
+                      cursor: pointer;}
+.collphoto div {width: 446px; height: 610px;
+                overflow: hidden;}
+
+/* 라인 */
+.CollLine {width: 100%; height: 100px;
+           background-color: #fff;}
+.collLine {width: 1400px; height: 0px;
+           margin: 0 auto;
+           margin-top: 80px;
+           border-top: 2px solid #333;}
+
+/* 매거진 */
+.magazine {width: 100%; height: 2000px;;
+           /* background-color: rgb(129, 119, 119); */
+           margin-top: 20px;}
+.magah3 {margin-top: 18px; text-align: center;}
+.magap {margin-top: -10px; text-align: center;}
+.magaspan {font-size: 1.1rem; font-weight: 600;}
+.magaspan:hover {cursor: pointer; color: #ecbc00;}

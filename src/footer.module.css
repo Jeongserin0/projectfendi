@@ -1,0 +1,40 @@
+.footer {width: 100%; height: 350px;
+         background-color: #333;}
+.footer p {color: white; text-align: center;
+          font-size: 0.8rem;}
+.footerBox {margin: 0 auto; position: relative;
+            width: 1400px; height: 260px;
+            display: flex; justify-content: space-between;}
+.footerBox ul {text-align: center;
+                margin-top: 30px;}
+.footerBox ul li:first-child {font-weight: 600; margin-bottom: 12px;}
+.footerBox ul li {line-height: 30px;
+                   color: white;}
+.footerBox ul a {color: white;
+                 text-decoration: none;
+                 font-size: 0.8rem;}
+
+.ftNews {width: 400px; height: 260px;
+         display: inline-block;}
+.ftNews h1 {margin-top: 30px;
+            text-align: center;
+            color: white;}
+.ftNews input {margin-left: 50px; margin-top: 30px;
+               width: 210px; height: 34px;
+               border: none; background-color: rgba(0, 0, 0, 0);
+               border-bottom: 1px solid white;}
+.ftNews button {margin-left: 10px;
+                width: 60px; height: 34px;
+                border: none; background-color: rgba(0, 0, 0, 0);
+                border-bottom: 1px solid white;
+                cursor: pointer;
+                color: white;}
+
+.customer {width: 290px; height: 260px;
+           display: inline-block;}
+.company {width: 290px; height: 260px;
+          display: inline-block;}
+.cookie {width: 290px; height: 260px;
+         display: inline-block;}
+.boutique {width: 290px; height: 260px;
+           display: inline-block;}

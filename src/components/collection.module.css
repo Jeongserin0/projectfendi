@@ -1,0 +1,74 @@
+.collection {width: 100%; height: 1400px;
+             /* background-color: rgb(207, 210, 207); */
+             margin-top: 120px;}
+.coll1 {width: 100%; height: 700px;
+        /* background-color: lightpink; */
+        position: relative;}
+.collPhoto1 {width: 50%; height: 700px;
+             /* background-color: gray; */
+             position: absolute;
+             left: 0; top: 0;
+             overflow: hidden;}
+.collPhoto1 img {width: 100%; height: 100%;
+                 object-fit: cover;}
+.collPhoto1 img:hover {transform: scale(1.1);
+                       transition: all 0.4s ease-in-out;
+                       cursor: pointer;}
+.collTxt1 {width: 600px; height: 700px;
+           /* background-color: darkkhaki; */
+           padding-left: 100px;
+           position: absolute;
+           right: 0;}
+.collTxt1 h2 {text-align: right;
+              font-size: 2rem;
+              color: #ecbc00;;
+              margin-right: 60px;
+              margin-top: 450px;}
+.collTxt1 p {text-align: right;
+             margin-right: 60px;}
+.collTxt1 button {width: 130px; height: 44px;
+                  background-color: #fff;
+                  border-radius: 50px;
+                  border: 1px solid #333;
+                  cursor: pointer;
+                  margin-left: 410px; margin-top: 10px;
+                  color: #333;}
+.collTxt1 button:hover {background-color: #ecbc00;
+                        border: none;
+                        color: #fff;}
+
+.coll2 {width: 100%; height: 700px;
+        /* background-color: cornflowerblue; */
+        position: relative;}
+.collPhoto2 {width: 50%; height: 700px;
+             background-color: gray;
+             position: absolute;
+             right: 0; top: 0;
+             overflow: hidden;}
+.collPhoto2 img {width: 100%; height: 100%;
+                 object-fit: cover;}
+.collPhoto2 img:hover {transform: scale(1.1);
+                       transition: all 0.4s ease-in-out;
+                       cursor: pointer;}
+.collTxt2 {width: 600px; height: 700px;
+           /* background-color: darkkhaki; */
+           padding-left: 100px;
+           position: absolute;
+           left: 0;}
+.collTxt2 h2 {text-align: left;
+              font-size: 2rem;
+              color: #ecbc00;;
+              margin-left: -60px;
+              margin-top: 450px;}
+.collTxt2 p {text-align: left;
+             margin-left: -60px;}
+.collTxt2 button {width: 130px; height: 44px;
+                  background-color: #fff;
+                  border-radius: 50px;
+                  border: 1px solid #333;
+                  cursor: pointer;
+                  margin-top: 10px; margin-left: -60px;
+                  color: #333;}
+.collTxt2 button:hover {background-color: #ecbc00;
+                        border: none;
+                        color: #fff;}

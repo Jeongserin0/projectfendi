@@ -1,0 +1,43 @@
+.best {width: 100%; height: 100vh;
+      /* background-color: lightyellow; */
+      position: relative;
+      margin-top: 90px;}
+.bestBox {width: 100%; height: 630px;
+         /* background-color: cadetblue; */
+         position: absolute; top: 50%; left: 50%;
+         transform: translate(-50%,-50%); }
+.bestBox h2 {text-align: center;}
+
+.btnL {width: 60px; height: 200px;
+      /* background-color: bisque; */
+      position: absolute;
+      z-index: 999;
+      top: 240px; left: 40px;}
+.btnR {width: 60px; height: 200px;
+      position: absolute;
+      top: 240px; right: 40px;
+      z-index: 999;
+      /* background-color: bisque; */}
+
+.BestT {margin-left: 10px;
+        margin-top: 10px;}
+.BestP {margin-left: 10px;
+        margin-top: -15px;}
+
+.FlexBox {width: 1400px; height: 500px;
+          /* background-color: black; */
+          margin: 0 auto;
+          display: flex; justify-content: space-between;}
+
+
+/* .Bestbox {width: 2270px; height: 510px;
+         background-color: aquamarine;
+         margin-top: 50px;
+         display: flex; justify-content: space-between;}
+.Bestbox1 {width: 370px; height: 510px;
+          display: inline-block;
+          background-color: beige;}
+.photo {width: 370px; height: 430px;
+        background-color: darkgrey;}
+.Bestbox1 h3 {margin-left: 10px; margin-top: 10px;}
+.Bestbox1 p {margin-left: 10px; margin-top: -14px;} */
